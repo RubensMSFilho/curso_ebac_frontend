@@ -16,7 +16,7 @@
         <label> Senha</label>
            <input id="senha" type="password" /><br />
            <br /><button type="submit">
-            Enviar
+            Cadastrar
         </button>
     </form>
 </body>
