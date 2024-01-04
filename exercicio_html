@@ -14,7 +14,7 @@
         <label>E-mail</label>
            <input id="email" type="email" /><br />
         <label> Senha</label>
-           <input id="senha" type="password" /><br />
+           <input id="password" type="password" /><br />
            <br /><button type="submit">
             Cadastrar
         </button>
